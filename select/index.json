@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "決戦は金曜日",
+  "base_artist": "Dreams Come True",
+  "createdAt": "2026-03-11T15:07:03.839304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "決戦は金曜日",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/01_決戦は金曜日_Dreams_Come_True.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "決戦は金曜日",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/02_決戦は金曜日_Unchain.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "決戦は金曜日 (Version of THE DYNAMITES)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/03_決戦は金曜日_(Version_of_THE_DYNAMITES)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "決戦は金曜日",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/04_決戦は金曜日_NICO_Touches_the_Walls.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "決戦は金曜日 – DOSCO prime Version –",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/05_決戦は金曜日_–_DOSCO_prime_Version_–_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "決戦は金曜日 - DOSCO prime Version",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/06_決戦は金曜日_-_DOSCO_prime_Version_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "決戦は金曜日 (Version of THE DYNAMITES)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/07_決戦は金曜日_(Version_of_THE_DYNAMITES)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "決戦は金曜日",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/08_決戦は金曜日_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "決戦は金曜日 (Version of “THE DYNAMITES”)",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/09_決戦は金曜日_(Version_of_“THE_DYNAMITES”)_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kessen wa Kin Youbi (決戦は金曜日)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/10_Kessen_wa_Kin_Youbi_(決戦は金曜日)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "決戦は金曜日",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/11_決戦は金曜日_Dreams_Come_True.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "決戦は金曜日",
+      "artist": "DreamsComeTrue",
+      "has_synced": true,
+      "path": "select/12_決戦は金曜日_DreamsComeTrue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "決戦は金曜日",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_決戦は金曜日_DREAMS_COME_TRUE.txt"
+    }
+  ]
+}
